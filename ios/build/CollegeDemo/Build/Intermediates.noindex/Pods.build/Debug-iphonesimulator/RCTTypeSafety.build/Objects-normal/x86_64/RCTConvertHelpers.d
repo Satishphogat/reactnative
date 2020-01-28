@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/satishphogat/Code/CollegeDemo/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/satishphogat/Code/CollegeDemo/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/Optional.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/Portability.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/CPortability.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/Traits.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/Utility.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

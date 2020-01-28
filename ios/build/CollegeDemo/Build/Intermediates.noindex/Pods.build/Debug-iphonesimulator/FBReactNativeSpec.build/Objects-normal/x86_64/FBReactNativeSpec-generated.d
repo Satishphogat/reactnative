@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/satishphogat/Code/CollegeDemo/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec-generated.mm \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch \
+  /Users/satishphogat/Code/CollegeDemo/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/Optional.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/Portability.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/CPortability.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/Traits.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/Utility.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/satishphogat/Code/CollegeDemo/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h
