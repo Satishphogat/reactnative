@@ -66,7 +66,7 @@ onClickListener(type) {
         <TextInput style={{}} placeholder = "Password" style={style.textField} onChangeText = {(password) => this.setStage({password: password}) } value={this.state.password} />
 
         <TouchableHighlight style={style.login} onPress = {() => this.onClickListener('login')}>
-        <Text style={{textAlign: 'center', color: '#ffffff', fontSize: 22}}>Login</Text>
+    <Text style={{textAlign: 'center', color: '#ffffff', fontSize: 22}}>Login</Text>
         </TouchableHighlight>
 
         <TouchableHighlight style={style.forgotPassword} onPress = {() => this.onClickListener('forgotpassword')}>
@@ -74,7 +74,7 @@ onClickListener(type) {
         </TouchableHighlight>
 
         </View>
-
+       
 
 
         </View>
@@ -83,6 +83,9 @@ onClickListener(type) {
       }
     }
 
+
+
+  
     const style = StyleSheet.create({
       container: {
         flex: 1,
